@@ -1,6 +1,6 @@
 # Overtime App
 
-##Key requirement: Company needs documentation that salaried employees did or did not get overtime each week
+## Key requirement: Company needs documentation that salaried employees did or did not get overtime each week
 
 ## Models
 
@@ -16,7 +16,7 @@
 - Email summary to managers for approval
 - Needs to be documented if employee (user) did not log overtime
 
-## UI:
+## UI
 
 - Bootstrap -> formatting
 
