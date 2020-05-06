@@ -24,4 +24,3 @@
 
 - RSpec
 - Capybara -> Integration Tests
-  rails.devcamp.com/professional-rails-development-course/application-build/rails-app-configuration
